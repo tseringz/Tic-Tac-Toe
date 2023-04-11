@@ -17,5 +17,5 @@ This is the project from The Odin Project [curriculum].(https://www.theodinproje
 
 ## Link
 
-[Live Demo of the library](https://tseringz.github.io/Tic-Tac-Toe/)
+[Live Demo of the Tic Tac Toe](https://tseringz.github.io/Tic-Tac-Toe/)
 <img width="1081" alt="Screenshot 2023-04-11 at 10 44 23 AM" src="https://user-images.githubusercontent.com/15078245/231062563-a9968b8b-41b0-4c16-a207-117abacfdce0.png">
