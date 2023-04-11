@@ -50,7 +50,6 @@ const gamePlay = (function() {
     }
     
     function render() {
-
     gridItems.forEach(item => {
         item.addEventListener('click', addMarker, { once: true});
     });
@@ -60,7 +59,6 @@ const gamePlay = (function() {
 
 
     function checkWinner() {
-
        for (const condition of gameBoard.winningCombination) {
             let [a, b, c] = condition;
             if (gameBoard.board[a] && (gameBoard.board[a] == gameBoard.board[b] && gameBoard.board[a] == gameBoard.board[c]))
@@ -100,4 +98,36 @@ const gamePlay = (function() {
 
 
    
-    
+ class MyClass {
+    // class method
+    constructor({template}) {
+        this.template = template;
+
+    }
+
+    render() {
+
+    }
+
+    stop() {
+
+    }
+
+    start() {
+        
+    }
+        method1() {}
+        method2() {}
+        method3() {}
+
+        get something() {
+
+        }
+
+        set something(value) {
+
+        }
+ }
+
+
+
